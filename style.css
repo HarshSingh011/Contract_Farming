@@ -104,7 +104,7 @@ h4 {
 
 
 .home {
-    background: linear-gradient(to top, #414752b6, #00040b37), url(farmer.jpg);
+    background: linear-gradient(to top, #414752b6, #00040b37), url(./views/farmer.jpg);
     background-repeat: no-repeat;
     background-position: top right;
     background-size: cover;
